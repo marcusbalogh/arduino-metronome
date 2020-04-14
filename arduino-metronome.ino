@@ -1,5 +1,8 @@
 /*
   Final Project: Metronome Arduino
+  
+  Github: https://github.com/marcusbalogh/arduino-metronome
+  
   Description: A digital metronome made using an Arduino Mega board with
                pots, a buzzer, a LCD Screen, 1 Digit LED Display, and a RGB LED.
                
